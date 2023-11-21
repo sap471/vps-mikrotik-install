@@ -10,7 +10,7 @@ echo "Preparation ..."
 apt install unzip -y
 
 # Latest Stable
-CHR_VERSION=6.49.7
+CHR_VERSION=7.12.1
 
 # Environment
 DISK=$(lsblk | grep "disk" | head -n 1 | cut -d' ' -f1)
