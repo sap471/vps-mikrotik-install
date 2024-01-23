@@ -3,7 +3,7 @@
 ## How to Use
 
 ```
-curl -fsSL https://raw.githubusercontent.com/sap471/vps-mikrotik-install/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/joradvoo/vps-mikrotik-install/main/install.sh | sudo bash
 ```
 
 shutdown manually from vps ui, then turn on it
